@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    /* background-image: url(images/ima12-removebg-preview\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: rgb(110, 53, 164);
+
+}
+.cloth{
+    margin-left: 15%;
+    margin-top: 10%;
+    color: antiquewhite;
+    font-size: large;
+    font-weight: bolder;
+}
+#button1{
+    margin-left: 15%;
+    margin-top: 11%;
+    padding: 2%;
+    border-radius: 5%;
+}
+.image1{
+    margin-left: 45%;
+    margin-top: -12%;
+    height: 80%;
+}
+.navbar{
+    display: flex;
+    background-color: white;
+
+}
+li{
+    display: flex;
+    margin: 2%;
+    margin-left: 15%;
+    list-style: none;
+    /* color: antiquewhite; */
+}
+.item{
+    margin: 5%;
+    margin-left: 45%;
+}
+.images{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.images img{
+    height: 70%;
+    width: 80%;
+    margin-left: 15%;
+}
+.images p{
+    margin-left: 15%;
+    margin-top: 8%;
+}
+#button2{
+    margin-left: 45%;
+    padding: 7px;
+    width: 13%;
+    background-color: palevioletred;
+}
+.images2{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    
+}
+/* .new{
+    background-image: url(images/ima8.jpeg);
+    background-repeat: no-repeat;
+    height: 80%;
+    width: 70%;
+
+} */
+#image5{
+    height: 50%;
+    width: 100%;
+    margin-left: 5%;
+}
+.shopify{
+    margin-left: 40%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+}
+.ima img{
+    width: 50%;
+    height: 40%;
+}
+.new{
+
+}
+.shoes{
+    margin-left: 30%;
+   
+}
+.fussion{
+    margin-left: 30%;
+   
+
+}
+/* .party{
+    
+}
+.shoes{
+
+} */
+/* .new img{
+    height: 60%;
+    width: 80%;
+} */
+/* .images2 img{
+    height: 70%;
+    width: 70%;
+}
+#image5{
+    height: 68vh;
+    width: 100%;
+    margin-top: 30%;
+} */
+/* .image2 p,h1{
+    margin-bottom: 5%;
+}
+.image3{
+    display: grid;
+    grid-template-columns: repeat(2,2fr);
+
+}
+.image3 img{
+    height: 70%;
+    width: 70%;
+} */
+.new{
+    background-image: url(images/ima8.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 28rem;
+    width: 30%;
+}
